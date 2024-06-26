@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d60add0.css",
-    "main.js": "/static/js/main.14aadae4.js",
+    "main.js": "/static/js/main.20b54fcb.js",
     "static/js/703.9ed85247.chunk.js": "/static/js/703.9ed85247.chunk.js",
     "static/js/198.e1b2539e.chunk.js": "/static/js/198.e1b2539e.chunk.js",
     "static/js/787.c7997b7d.chunk.js": "/static/js/787.c7997b7d.chunk.js",
@@ -56,7 +56,6 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/Customer.svg": "/static/media/Customer.ef02071ed576cf6e3a2a65aeb4db5d6e.svg",
     "static/media/csvWhite.svg": "/static/media/csvWhite.e736f748401cc4b37f04a8294f538190.svg",
-    "static/media/ContractID.svg": "/static/media/ContractID.956b37189d871ad0c8c217ed5e261f36.svg",
     "static/media/Claimed.svg": "/static/media/Claimed.02ccc6770cd1393fa31d22386100fc10.svg",
     "static/media/Coverage Start.svg": "/static/media/Coverage Start.fa4416a7d487169d0274e8e950a3136c.svg",
     "static/media/Description.svg": "/static/media/Description.b06530c654aea09cfff801863795cbdf.svg",
@@ -83,6 +82,7 @@
     "static/media/frontingFees.svg": "/static/media/frontingFees.47219d20ac0ebcec8e0c5153d9c4f4f8.svg",
     "static/media/activeFrontingFees.svg": "/static/media/activeFrontingFees.915e6ce07a5d749719bfe259de17231a.svg",
     "static/media/Dealer.svg": "/static/media/Dealer.f1ebe8388a9138d029a269858bec27b3.svg",
+    "static/media/OrderID.svg": "/static/media/OrderID.3158ca8694c11494f39b1ff38c699917.svg",
     "static/media/dealer.svg": "/static/media/dealer.8053377f320b165bb40d5644a108c751.svg",
     "static/media/dealerDetails.svg": "/static/media/dealerDetails.a6f3a8824083c173a68994bda98cd1e8.svg",
     "static/media/activeDealer.svg": "/static/media/activeDealer.d41db5d7e34eecee6ec754170037540d.svg",
@@ -185,13 +185,13 @@
     "static/media/ReadDot.svg": "/static/media/ReadDot.c65e057055a0a0c0ecac5ddbe04cc527.svg",
     "static/media/UnReadDot.svg": "/static/media/UnReadDot.65733458a2fc953ae2a7c51759ccae32.svg",
     "main.6d60add0.css.map": "/static/css/main.6d60add0.css.map",
-    "main.14aadae4.js.map": "/static/js/main.14aadae4.js.map",
+    "main.20b54fcb.js.map": "/static/js/main.20b54fcb.js.map",
     "703.9ed85247.chunk.js.map": "/static/js/703.9ed85247.chunk.js.map",
     "198.e1b2539e.chunk.js.map": "/static/js/198.e1b2539e.chunk.js.map",
     "787.c7997b7d.chunk.js.map": "/static/js/787.c7997b7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d60add0.css",
-    "static/js/main.14aadae4.js"
+    "static/js/main.20b54fcb.js"
   ]
 }
